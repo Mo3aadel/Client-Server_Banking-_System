@@ -1,0 +1,32 @@
+{
+    "admins": [
+        {
+            "futmaster": {
+                "password": "240998"
+            },
+            "moadel": {
+                "password": "1234"
+            }
+        }
+    ],
+    "users": [
+        {
+            "mohamed": {
+                "accountnumber": "1928",
+                "password": "010101"
+            }
+        },
+        {
+            "mazen": {
+                "accountnumber": "1914",
+                "password": "101010"
+            }
+        },
+        {
+            "nader": {
+                "accountnumber": "7474",
+                "password": "1212"
+            }
+        }
+    ]
+}

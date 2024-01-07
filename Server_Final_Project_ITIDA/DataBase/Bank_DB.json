@@ -1,0 +1,88 @@
+{
+    "1914": {
+        "Accountnumber": "1914",
+        "Age": "19",
+        "Balance": "13734",
+        "Fullname": "Mazen Adel Amin",
+        "Transaction History": [
+            {
+                "datetime": "2024-01-07 17:04:16",
+                "details": "2500 from 1928"
+            },
+            {
+                "datetime": "2024-01-07 07:54:01",
+                "details": "2000 to 1928"
+            },
+            {
+                "datetime": "2024-01-07 07:53:27",
+                "details": "+3000"
+            },
+            {
+                "datetime": "2024-01-07 07:21:32",
+                "details": "2000 to 1928"
+            },
+            {
+                "datetime": "2024-01-07 07:20:39",
+                "details": "+1000"
+            },
+            {
+                "datetime": "2024-01-07 06:04:12",
+                "details": "+4000"
+            },
+            {
+                "datetime": "2024-01-07 05:06:54",
+                "details": "+1234"
+            },
+            {
+                "datetime": "2024-01-07 03:28:02",
+                "details": "+2000"
+            }
+        ],
+        "Username": "mazen"
+    },
+    "1928": {
+        "Accountnumber": "1928",
+        "Age": "25",
+        "Balance": "35000",
+        "Fullname": "Mohamed Adel Amin",
+        "Transaction History": [
+            {
+                "datetime": "2024-01-07 17:04:16",
+                "details": "2500 to 1914"
+            },
+            {
+                "datetime": "2024-01-07 17:02:13",
+                "details": "+2000"
+            },
+            {
+                "datetime": "2024-01-07 07:54:01",
+                "details": "2000 from 1914"
+            },
+            {
+                "datetime": "2024-01-07 07:21:32",
+                "details": "2000 from 1914"
+            },
+            {
+                "datetime": "2024-01-07 04:58:39",
+                "details": "+1000"
+            },
+            {
+                "datetime": "2024-01-07 04:58:28",
+                "details": "+2000"
+            },
+            {
+                "datetime": "2024-01-07 03:34:27",
+                "details": "+5000"
+            },
+            {
+                "datetime": "2024-01-07 02:37:58",
+                "details": "+3000"
+            },
+            {
+                "datetime": "2024-01-06 22:20:57",
+                "details": "+2000"
+            }
+        ],
+        "Username": "mohamed"
+    }
+}
